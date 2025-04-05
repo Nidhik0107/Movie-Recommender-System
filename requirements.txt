@@ -1,4 +1,0 @@
-streamlit
-
-#for local package
--e .
